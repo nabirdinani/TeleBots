@@ -1,0 +1,12 @@
+You may use one of the sprites if you want a static image for the item,
+otherwise, the intended animation sequence is as follows:
+
+sl01
+sl02
+sl03
+sl02
+
+loop
+
+This should create a small up & down animation animation motion for
+this sprite

@@ -1,0 +1,19 @@
+You may use one of the sprites if you want a static image for the item (preferibly bullet01 or bullet07)
+otherwise, the intended animation sequence is as follows:
+
+bullet01
+bullet02
+bullet03
+bullet04
+bullet05
+bullet06
+bullet07
+bullet06
+bullet05
+bullet04
+bullet03
+bullet02
+
+loop
+
+This should create a spinning animation for this bullet sprite

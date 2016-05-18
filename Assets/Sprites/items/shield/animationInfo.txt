@@ -1,0 +1,14 @@
+You may use one of the sprites if you want a static image for the item (preferibly "sh01")
+otherwise, the intended animation sequence is as follows:
+
+sh01
+sh02
+sh03
+sh04
+sh03
+sh02
+
+loop
+
+This should create a spinning animation for this sprite. There is also 
+a bouncy up/down animation for this sprite as well

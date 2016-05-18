@@ -1,0 +1,116 @@
+fileFormatVersion: 2
+guid: 2cc2c2c36bbd8f141add908f9e9e5964
+timeCreated: 1461635019
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: play-side_0
+    21300002: play-side_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: play-side_0
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 201
+        width: 264
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.537498, y: 16.206253}
+        - {x: 6.5374985, y: 16.206253}
+        - {x: 1.5374985, y: 8.206253}
+        - {x: -20.462502, y: 16.206253}
+        - {x: -25.462502, y: 16.206253}
+        - {x: -27.462502, y: 14.206253}
+        - {x: -27.462502, y: 10.206253}
+        - {x: -27.462502, y: 12.206253}
+        - {x: -31.462502, y: 15.206253}
+        - {x: -33.4625, y: 16.206253}
+        - {x: -55.4625, y: 16.206253}
+        - {x: -55.4625, y: -13.793747}
+        - {x: 28.537498, y: -13.793747}
+        - {x: 28.537498, y: -5.793747}
+        - {x: 16.537498, y: 14.206253}
+      - - {x: 24.537498, y: 16.206253}
+        - {x: 24.537498, y: 7.206253}
+        - {x: 39.5375, y: -13.793747}
+        - {x: 46.5375, y: -13.793747}
+        - {x: 58.5375, y: 6.206253}
+        - {x: 58.5375, y: 16.206253}
+    - name: play-side_1
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 201
+        width: 280
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.212524, y: 17.206253}
+        - {x: -54.787476, y: 17.206253}
+        - {x: -54.787476, y: -10.793747}
+        - {x: -52.787476, y: -12.793747}
+        - {x: 29.212524, y: -12.793747}
+        - {x: 29.212524, y: -4.793747}
+      - - {x: 25.212524, y: 17.206253}
+        - {x: 25.212524, y: 11.206253}
+        - {x: 37.212524, y: -8.793747}
+        - {x: 40.212524, y: -12.793747}
+        - {x: 47.212524, y: -12.793747}
+        - {x: 59.212524, y: 9.206253}
+        - {x: 59.212524, y: 12.206253}
+        - {x: 57.212524, y: 17.206253}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,12 @@
+You may use one of the sprites if you want a static image for the item,
+otherwise, the intended animation sequence is as follows:
+
+sqshield01
+sqshield02
+sqshield03
+sqshield02
+
+loop
+
+This should create a small up & down animation animation motion for
+this sprite

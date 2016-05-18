@@ -1,0 +1,11 @@
+You may use one of the sprites if you want a static image for the item,
+otherwise, the intended animation sequence is as follows:
+
+sqbul01
+sqbul02
+sqbul03
+sqbul02
+loop
+
+This should create a small up & down animation animation motion for
+this sprite

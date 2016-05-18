@@ -1,0 +1,21 @@
+You may use one of the sprites if you want a static image for the item (preferibly "life01")
+otherwise, the intended animation sequence is as follows:
+
+life01
+life02
+life03
+life04
+life05
+life06
+life07
+life06
+life05
+life04
+life03
+life02
+
+loop
+
+This should create a spinning animation for this sprite
+
+this sprite will only be highly visible if the background is dark
